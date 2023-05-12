@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\CGIH11\Desktop\Practicas\p6\p6\p6\Main.cpp(114,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH11\Desktop\Practicas\p6\p6\p6\Main.cpp(208,27): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\CGIH11\Desktop\Practicas\p6\p6\p6\Main.cpp(245,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH11\Desktop\Practicas\p6\p6\p6\Main.cpp(246,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH11\Desktop\Practicas\p6\p6\p6\Main.cpp(250,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH11\Desktop\Practicas\p6\p6\p6\Main.cpp(251,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH11\Desktop\Practicas\p6\p6\p6\Main.cpp(253,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\CGIH11\Desktop\Practicas\p6\p6\p6\Main.cpp(254,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\CGIH11\Desktop\Practicas\p6\p6\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\CGIH11\Desktop\Practicas\p6\p6\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\CGIH11\Desktop\Practicas\p6\p6\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  p6.vcxproj -> C:\Users\CGIH11\Desktop\Practicas\p6\p6\Debug\p6.exe

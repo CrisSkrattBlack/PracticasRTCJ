@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (p6.vcxproj, p7.vcxproj, p8.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  p9.vcxproj -> F:\mis cosas\materias\Compus graficas\compu grafica 4\labo\p9\p9\p9\p9\Debug\p9.exe
